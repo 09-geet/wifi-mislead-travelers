@@ -17,4 +17,4 @@ Travelers get tricked by "high-speed WiFi" ads. No tests = no truth. Remote work
 ## Spread the Word
 Share this site! [Tweet it](https://twitter.com/intent/tweet?text=Stop%20fake%20WiFi%20claims!)
 
-*Made by [Your Name]. Contact: your.email@example.com*
+*Made by [Golu sharma]. Contact: your.studygolusharma*
