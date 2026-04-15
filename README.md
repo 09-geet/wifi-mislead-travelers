@@ -7,7 +7,7 @@ Travelers get tricked by "high-speed WiFi" ads. No tests = no truth. Remote work
 - **No Proof**: Hotels don't measure with real users online.
 - **Your Pain**: Zoom calls freeze, uploads fail, work stops.
 
-![Slow WiFi Meme](https://via.placeholder.com/400x200/FF0000/FFFFFF?text=Slow+WiFi+😩) <!-- Replace with real image URL -->
+![Slow WiFi Meme](.  https://share.google/5lBb0fGn7BeDMndy7 ) <!-- Replace with real image URL -->
 
 ## Quick Test Before Booking
 1. Ask for **recent speed test screenshots** (peak hours).
